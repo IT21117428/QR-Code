@@ -11,13 +11,13 @@
 }
 body{
     min-height: 100vh;
-    background-color: var(--Light-gray);
+    background-color: hsl(212, 45%, 89%);
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .card{
-    background: var(--White);
+    background: hsl(0, 0%, 100%);
     width: 350px;
     height: 550px;
     text-align: center;
@@ -33,11 +33,11 @@ body{
     border-radius: 1rem;
 }
 .container h2{
-    color: var(--Dark-blue);
+    color: hsl(218, 44%, 22%);
     font-weight: 700;
     margin: 5% auto;
 }
 .container p{
-    color: var(--Grayish-blue);
+    color: hsl(220, 15%, 55%);
     font-weight: 400;
 }
